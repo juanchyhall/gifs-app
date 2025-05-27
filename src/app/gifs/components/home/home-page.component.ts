@@ -3,7 +3,7 @@ import { GifsService } from '../../service/gifs.service';
 import { Gif } from '../../interfaces/gifs.interfaces';
 
 @Component({
-  selector: 'app-home-page',
+  selector: 'gifs-home-page',
   templateUrl: './home-page.component.html'
 })
 export class HomePageComponent {
